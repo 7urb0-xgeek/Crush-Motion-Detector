@@ -2,8 +2,8 @@ import cv2
 import requests
 
 
-TELEGRAM_BOT_TOKEN = 'Your Telegram Bot Token'
-TELEGRAM_CHAT_ID = 'YOUr Chat ID'
+TELEGRAM_BOT_TOKEN = '6806988397:AAFuBwL95UmmzjVkexV99onGeF9BH_tU5M0'
+TELEGRAM_CHAT_ID = '5226253251'
 
 
 # Function to send a message to the Telegram bot
